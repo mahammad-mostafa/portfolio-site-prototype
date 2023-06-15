@@ -40,7 +40,7 @@ This project is about building a prototype for a portfolio website. It uses `Boo
 - Responsive design on all screens
 - Toolbar with menu links
 - Hero section with titles and paragraph
-- Works section with a detailed card for each item
+- Projects section with a detailed card for each item
 - About section containing text information
 - Contact section with a form to submit
 - Footer section with social links
@@ -92,8 +92,8 @@ You can deploy this project by uploading the file `index.html` to a live server.
 # 🔭 Future
 
 Some additional features I may implement in the project:
-- [ ] Hamburger menu for mobile
-- [ ] Details popup for works items
+- [ ] Correct color template
+- [ ] Modal popup for projects cards
 
 <p align="right"><a href="#title">back to top</a></p>
 
