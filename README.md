@@ -6,7 +6,7 @@
 
 This is the third project in the first module in the **Microverse** program.
 <br/>
-Check the below contents for futher details about this project.
+Check the below contents for further details about this project.
 
 <!-- CONTENTS -->
 
@@ -30,9 +30,9 @@ Check the below contents for futher details about this project.
 This project is about building a prototype for a portfolio website. It uses `BootStrap` framework for building the page structure. 
 
 📌 **Tech Stack:**
-- `HTML5`
-- `CSS3`
-- `BootStrap5`
+- Page strucutre is built with `HTML5`
+- Styling and effects built with `CSS3`
+- Alignment and layout built with `BootStrap5`
 
 📌 **Key Features:**
 - Built with BootStrap framework
@@ -56,16 +56,13 @@ This project is about building a prototype for a portfolio website. It uses `Boo
 You can easily download or fork this repository and work on it immadiately!
 
 📌 **Prerequisites:**
-<br/>
-No prior requirements needed!
+- No prior requirements needed!
 
 📌 **Setup:**
-<br/>
-Simply download or fork this repository.
+- Simply download or fork this repository.
 
 📌 **Deployment:**
-<br/>
-You can deploy this project by uploading the file `index.html` to a live server.
+- You can deploy this project by uploading the file `index.html` to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
